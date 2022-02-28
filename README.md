@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://www.ozdilekteyim.com/">
-    <img src="https://cdn.discordapp.com/attachments/799645537062092800/947943716117692486/ozdilekteyim-logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/799645537062092800/947943716117692486/ozdilekteyim-logo.png" alt="Logo" width="500" height="122">
   </a>
 
   <h3 align="center">Özdilekteyim Android Application Appium Test Project</h3>
